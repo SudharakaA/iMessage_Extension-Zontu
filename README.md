@@ -112,3 +112,18 @@ For issues or questions, please create an issue in the project repository.
 
 ---
 
+--Quick Messages--
+<img width="1440" height="900" alt="Screenshot 2025-10-02 at 6 58 28 AM" src="https://github.com/user-attachments/assets/ea340e06-3b58-417d-af19-b7228eb4f380" />
+
+--Creating Polls--
+<img width="1440" height="900" alt="Screenshot 2025-10-02 at 6 58 37 AM" src="https://github.com/user-attachments/assets/db071254-327b-4392-80b5-d2e7419eae25" />
+
+--Stickers--
+<img width="1440" height="900" alt="Screenshot 2025-10-02 at 6 59 35 AM" src="https://github.com/user-attachments/assets/65f01cd6-87cc-4de9-a769-3381c32c9852" />
+
+--Location Sharing--
+<img width="1440" height="900" alt="Screenshot 2025-10-02 at 7 00 30 AM" src="https://github.com/user-attachments/assets/4ca4f15d-d88c-4fdf-af91-61c000950d72" />
+
+
+
+
