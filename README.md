@@ -76,6 +76,7 @@ Edit the `templates` array in `showQuickMessagesView()` method:
 let templates = [
     ("👍 On my way!", "I'm on my way! See you soon!"),
     // Add your custom templates here
+
 ]
 ```
 
